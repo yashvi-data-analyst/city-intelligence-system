@@ -32,8 +32,8 @@ An intelligent AI assistant built with <b>LangChain</b>, <b>Mistral AI</b>, <b>T
 
 <p align="center">
 
-<a href="https://credit-card-fraud-detection-tvae-iasu9sznd9gn2py4du8frd.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀 Live Demo-Visit App-success?style=for-the-badge"/>
+<a href="https://city-intelligence-system-tvae-iasu9sznd9gn2py4du8frd.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20Now-success?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/yashvi-data-analyst/city-intelligence-system">
@@ -140,6 +140,22 @@ pip install -r requirements.txt
 
 streamlit run app.py
 ```
+
+
+---
+
+# 🚀 Live Demo
+
+🌐 **Try the application here**
+
+### 🔗 https://city-intelligence-system-tvae-iasu9sznd9gn2py4du8frd.streamlit.app/
+
+📂 **GitHub Repository**
+
+https://github.com/yashvi-data-analyst/city-intelligence-system
+
+---
+
 
 ---
 
