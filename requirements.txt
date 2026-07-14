@@ -1,0 +1,64 @@
+# LLM Providers
+openai
+mistralai
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-mistralai
+langchain-text-splitters
+
+# Vector Database
+chromadb
+
+# Embeddings & NLP
+tiktoken
+sentence-transformers
+
+# Document Loaders
+pypdf
+pdfplumber
+python-docx
+beautifulsoup4
+lxml
+
+# Data Handling
+pandas
+numpy
+
+# Environment Variables
+python-dotenv
+
+# API Framework (optional but recommended)
+fastapi
+uvicorn
+
+# UI (if using Streamlit)
+streamlit
+
+# HTTP Requests
+requests
+httpx
+
+# Tokenization & Utilities
+tenacity
+
+# Logging & Monitoring
+loguru
+
+# File Upload Support
+python-multipart
+
+# Validation
+pydantic
+
+# Optional OCR Support
+Pillow
+
+# Optional Advanced Retrieval
+rank-bm25
+
+# Progress Bars
+tqdm
