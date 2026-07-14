@@ -1,125 +1,96 @@
-```{=html}
 <p align="center">
-```
-`<img src="assets/banner.png" width="100%" alt="City Intelligence System Banner">`{=html}
-```{=html}
+  <img src="assets/banner.png" width="100%" alt="City Intelligence System Banner">
 </p>
-```
-::: {align="center"}
+
+<div align="center">
+
 # 🌍 City Intelligence System
 
 ### 🤖 AI-Powered Weather & News Assistant
 
-An intelligent AI assistant built with **LangChain**, **Mistral AI**,
-**Tavily Search**, **OpenWeather API**, and **Streamlit** to deliver
-real-time weather insights and the latest news through a modern
-conversational interface.
+An intelligent AI assistant built with **LangChain**, **Mistral AI**, **Tavily Search**, **OpenWeather API**, and **Streamlit**.
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python"/>`{=html}
-`<img src="https://img.shields.io/badge/LangChain-Agent-success?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Mistral-AI-orange?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Streamlit-Deployed-red?style=for-the-badge&logo=streamlit"/>`{=html}
-`<img src="https://img.shields.io/badge/OpenWeather-API-yellow?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Tavily-Search-blueviolet?style=for-the-badge"/>`{=html}
-```{=html}
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/LangChain-Agent-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mistral-AI-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-Deployed-red?style=for-the-badge&logo=streamlit"/>
+  <img src="https://img.shields.io/badge/OpenWeather-API-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tavily-Search-blueviolet?style=for-the-badge"/>
 </p>
-```
-```{=html}
-<p>
-```
-`<a href="https://credit-card-fraud-detection-tvae-iasu9sznd9gn2py4du8frd.streamlit.app/">`{=html}
-`<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-success?style=for-the-badge"/>`{=html}
-`</a>`{=html}
 
-`<a href="https://github.com/yashvi-data-analyst/city-intelligence-system">`{=html}
-`<img src="https://img.shields.io/badge/📂%20GitHub-Repository-black?style=for-the-badge"/>`{=html}
-`</a>`{=html}
-```{=html}
+<p align="center">
+  <a href="https://credit-card-fraud-detection-tvae-iasu9sznd9gn2py4du8frd.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-success?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/yashvi-data-analyst/city-intelligence-system">
+    <img src="https://img.shields.io/badge/📂%20GitHub-Repository-black?style=for-the-badge"/>
+  </a>
 </p>
-```
-:::
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 # ✨ Features
 
--   🌤 Real-Time Weather Information
--   📰 Latest News Search
--   🤖 AI Conversation using Mistral AI
--   🔎 Tavily Web Search Integration
--   ⚡ LangChain Agent Workflow
--   🛡 Human Approval Middleware
--   💬 Beautiful Streamlit Interface
--   📥 Download Chat
--   📊 Conversation Statistics
--   🌙 Modern Dark UI
+- 🌤 Real-Time Weather
+- 📰 Latest News Search
+- 🤖 AI Chat with Mistral
+- 🔎 Tavily Search Integration
+- ⚡ LangChain Agent Workflow
+- 🛡 Human Approval Middleware
+- 💬 Streamlit Interface
+- 📥 Download Chat
+- 📊 Conversation Statistics
 
-------------------------------------------------------------------------
+---
 
 # 📸 Project Preview
 
 ## 🏠 Home Page
 
-```{=html}
 <p align="center">
-```
-`<img src="assets/HomePage.png" width="95%">`{=html}
-```{=html}
+<img src="assets/HomePage.png" width="95%">
 </p>
-```
+
 ## 🌤 Weather Response
 
-```{=html}
 <p align="center">
-```
-`<img src="assets/Weather_response.png" width="95%">`{=html}
-```{=html}
+<img src="assets/Weather_response.png" width="95%">
 </p>
-```
+
 ## 📰 News Response
 
-```{=html}
 <p align="center">
-```
-`<img src="assets/news_response.png" width="95%">`{=html}
-```{=html}
+<img src="assets/news_response.png" width="95%">
 </p>
-```
-## 📊 Sidebar & Features
 
-```{=html}
+## 📋 Sidebar
+
 <p align="center">
-```
-`<img src="assets/sidebarfeatures.png" width="95%">`{=html}
-```{=html}
+<img src="assets/sidebarfeatures.png" width="95%">
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 # 🛠 Tech Stack
 
-  Technology        Usage
-  ----------------- -----------------------
-  Python            Core Programming
-  Streamlit         Web Interface
-  LangChain         AI Agent Framework
-  Mistral AI        Large Language Model
-  Tavily Search     Web Search
-  OpenWeather API   Live Weather
-  Requests          API Integration
-  Python Dotenv     Environment Variables
+| Technology | Purpose |
+|------------|---------|
+| Python | Backend |
+| Streamlit | UI |
+| LangChain | AI Agent |
+| Mistral AI | LLM |
+| Tavily | Web Search |
+| OpenWeather API | Weather Data |
 
-------------------------------------------------------------------------
+---
 
 # 📂 Project Structure
 
-``` text
-City-Intelligence-System/
-│
+```text
+city-intelligence-system/
 ├── app.py
 ├── Agents.py
 ├── requirements.txt
@@ -132,66 +103,53 @@ City-Intelligence-System/
     └── sidebarfeatures.png
 ```
 
-------------------------------------------------------------------------
+---
 
-# ⚙️ Installation
+# ⚙ Installation
 
-``` bash
+```bash
 git clone https://github.com/yashvi-data-analyst/city-intelligence-system.git
-
 cd city-intelligence-system
-
 pip install -r requirements.txt
-
 streamlit run app.py
 ```
 
-------------------------------------------------------------------------
+---
 
 # 🔑 Environment Variables
 
-Create a `.env` file:
-
-``` env
+```env
 MISTRAL_API_KEY=YOUR_KEY
 OPENWEATHER_API_KEY=YOUR_KEY
 TAVILY_API_KEY=YOUR_KEY
 ```
 
-------------------------------------------------------------------------
+---
 
 # 🚀 Future Improvements
 
--   📍 Auto Location Detection
--   🌍 Multi-language Support
--   🔊 Voice Assistant
--   📱 Mobile Responsive UI
--   📈 7-Day Weather Forecast
--   ❤️ Favorite Cities
--   📰 Personalized News Feed
+- 📍 Auto Location
+- 🌍 Multi-language
+- 🔊 Voice Assistant
+- 📈 Weather Forecast
+- ❤️ Favorite Cities
 
-------------------------------------------------------------------------
+---
 
 # 👩‍💻 Author
 
 **Yashvi Verma**
 
-AI • Machine Learning • Python • LangChain
-
 GitHub: https://github.com/yashvi-data-analyst
 
-------------------------------------------------------------------------
+---
 
 # ⭐ Support
 
-If you like this project:
+If you like this project, please ⭐ star the repository.
 
--   ⭐ Star this repository
--   🍴 Fork this repository
--   💙 Share it with others
+<div align="center">
 
-------------------------------------------------------------------------
+### ❤️ Made with Streamlit • LangChain • Mistral AI
 
-::: {align="center"}
-### ❤️ Made with Streamlit • LangChain • Mistral AI • Tavily • OpenWeather API
-:::
+</div>
